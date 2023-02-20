@@ -1,3 +1,3 @@
 # Business-Card
 
-thats it
+Thats it.
